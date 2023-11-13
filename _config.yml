@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 #title: First Degree Burns Engineering
-  #email: kevin@firstdegreeburnsengineering.com
-  #description: Site under construction.
+email: kevin@firstdegreeburnsengineering.com
+#description: Site under construction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
   #github_username:  firstdegreeburns
