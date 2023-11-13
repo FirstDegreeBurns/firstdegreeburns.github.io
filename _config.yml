@@ -28,7 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 #theme: remote_theme:linkhub-jekyll-theme
 theme: jekyll-theme-midnight
-#plugins:
+plugins:
+  - jemoji
 #  - jekyll-feed
 
 # Exclude from processing.
